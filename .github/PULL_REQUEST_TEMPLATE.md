@@ -31,9 +31,6 @@ Windows
  
 Chromebook
  * [ ] Chrome
- 
-iPad
-* [ ] Safari
 
 Android Tablet
 * [ ] Chrome
